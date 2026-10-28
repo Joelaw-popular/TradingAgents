@@ -1,0 +1,8 @@
+{
+  "name": "TradingAgents Multi-Agent Financial Framework",
+  "description": "Multi-agent LLM financial trading research framework featuring parallel market, sentiment, news, and fundamentals analysts, bull/bear research debates, risk management, portfolio context, backtest evaluation grids, and reflection memory logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
